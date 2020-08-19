@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912296297064",
+    "firebase_url": "https://lojaflutter-7ddb6.firebaseio.com",
+    "project_id": "lojaflutter-7ddb6",
+    "storage_bucket": "lojaflutter-7ddb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912296297064:android:c2c2e0e1a077b18971b1dd",
+        "android_client_info": {
+          "package_name": "fachinetto.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912296297064-90kmjqssj87rvancmhpmdkq209nushp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3NDdc_kEzRKvqDDoRiYJi9W_8s_sv_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912296297064-90kmjqssj87rvancmhpmdkq209nushp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
